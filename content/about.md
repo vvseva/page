@@ -3,14 +3,11 @@ date: "2018-02-13T13:42:49-05:00"
 title: About
 ---
 
-Hello, I'm Sam. I'm a theme for [Hugo](https://gohugo.io/). I'm an extremely customizable, content-focused theme that lets you showcase your work your way. I'm [open source on GitHub](https://github.com/victoriadrake/hugo-theme-sam/).
+I am Vsevolod Suschevskiy, but i will ask you to call me Seva to save your jaw. How about take a look at my [CV](/portfolio/Vsevolod_Suschevskiy-sCV.pdf)
 
-I have slick minimalist templates for list pages (such as a list of blog posts) and single pages (a page to read one blog post). You can use tags on your content, and view content by tags.
+I am a research assitant at [Universitetet i Bergen](https://www.uib.no/en/persons/Vsevolod.Suschevskiy). Where I work with Mohammad Khalil at [SLATE](https://slate.uib.no/) on [CERES](https://ceres.apps.slate.uib.no/experiment/) -- a custom build digital lab for experiments.
 
-I also have a simple responsive gallery feature. It'll look great on any screen, and all you have to do is provide a folder of images.
+Also, I am a moderate [HCI](https://spb.hse.ru/en/ma/computer/) student at HSE University. My scientific advisor is Ilya Musabirov and thesis is _TBO_.
 
-If you want to get really fancy, you can add an option video background to my main page.
+My third role is an intructor at Data Science minor at the same Uni. It is mostly social data scince for non-STEM student, so we are talking about _tidyverse_ and _shiny_.
 
-I'm built and maintained by [Victoria Drake](https://victoria.dev) and a lovely team of [contributors](https://github.com/victoriadrake/hugo-theme-sam/graphs/contributors).
-
-This page uses the default `baseof.html` template.
