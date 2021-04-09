@@ -19,8 +19,6 @@ params:
       text: posts
     - link: gallery
       text: gallery
-    - link: portfolio
-      text: portfolio
     - link: about
       text: who is vvseva?
   title: vvseva business card website
