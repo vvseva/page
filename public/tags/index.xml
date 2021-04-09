@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on vvseva business card website</title>
+    <link>https://vvseva.netlify.app/tags/</link>
+    <description>Recent content in Tags on vvseva business card website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Mar 2018 20:18:53 -0500</lastBuildDate><atom:link href="https://vvseva.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>blog</title>
+      <link>https://vvseva.netlify.app/tags/blog/</link>
+      <pubDate>Thu, 08 Mar 2018 20:18:53 -0500</pubDate>
+      
+      <guid>https://vvseva.netlify.app/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>code</title>
+      <link>https://vvseva.netlify.app/tags/code/</link>
+      <pubDate>Thu, 08 Mar 2018 20:18:53 -0500</pubDate>
+      
+      <guid>https://vvseva.netlify.app/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>story</title>
+      <link>https://vvseva.netlify.app/tags/story/</link>
+      <pubDate>Mon, 19 Feb 2018 12:41:46 -0500</pubDate>
+      
+      <guid>https://vvseva.netlify.app/tags/story/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>classic</title>
+      <link>https://vvseva.netlify.app/tags/classic/</link>
+      <pubDate>Sun, 11 Feb 2018 12:34:41 -0500</pubDate>
+      
+      <guid>https://vvseva.netlify.app/tags/classic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>poem</title>
+      <link>https://vvseva.netlify.app/tags/poem/</link>
+      <pubDate>Thu, 01 Feb 2018 12:35:11 -0500</pubDate>
+      
+      <guid>https://vvseva.netlify.app/tags/poem/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
