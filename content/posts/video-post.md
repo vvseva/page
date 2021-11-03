@@ -9,6 +9,3 @@ title: LAK21 1 minutes presentation
 
 {{< youtube I-LVbE1zljg >}}
 
-
-{{< vimeo 146022717 >}}
-

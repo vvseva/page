@@ -1,5 +1,6 @@
 ---
 date: "2018-02-19T12:41:46-05:00"
+draft: true
 images:
 - /posts/ideas.png
 showDate: true
