@@ -5,8 +5,8 @@ images:
 - /post/images/vignexp1.png
 showDate: true
 tags:
-- #research
-- #vignexp 
+- research
+- vignexp 
 title: 'Experiment for CitSci'
 ---
 

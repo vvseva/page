@@ -3,7 +3,7 @@ date: "2021-04-16T20:18:53-05:00"
 draft: false
 showDate: true
 tags:
-- #conference
+- conference
 title: LAK21
 ---
 

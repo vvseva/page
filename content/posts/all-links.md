@@ -3,7 +3,7 @@ date: "2021-02-11T12:34:41-05:00"
 draft: false
 showDate: true
 tags:
-- #information
+- information
 title: More links
 ---
 
