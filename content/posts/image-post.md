@@ -5,9 +5,9 @@ images:
 - /posts/ideas.png
 showDate: true
 tags:
-- blog
-- story
-title: '**Image** post'
+- research
+- vignexp
+title: 'Experiment for CitSci'
 ---
 
 Hello! I'm a blog post with an image. Thanks to Open Graph and Twitter metadata, external links to this page will feature the image below.

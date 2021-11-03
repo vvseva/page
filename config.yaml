@@ -20,7 +20,7 @@ params:
     - link: gallery
       text: gallery
     - link: about
-      text: about
+      text: who is Seva Suschevskiy
   title: vvseva business card website
   videoBackground:
     overlay: rgba(0, 0, 0, 0.4)
