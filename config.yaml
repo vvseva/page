@@ -11,7 +11,7 @@ params:
   dateformfull: Mon Jan 2 2006 15:04:05 EST
   description: That is my personal page, that i have for no real reason.
   favicon: sam.ico
-  footerText: All rights are right. At least I hope so.
+  footerText: Vsevolod Suschevskiy (vvsuschevskiy at gmail)
   homepage: main
   images: tn.png
   mainMenu:
@@ -20,7 +20,7 @@ params:
     - link: gallery
       text: gallery
     - link: about
-      text: who is Seva Suschevskiy
+      text: who is Seva
   title: vvseva business card website
   videoBackground:
     overlay: rgba(0, 0, 0, 0.4)

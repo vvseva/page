@@ -20,3 +20,4 @@ All the links:
 * [linkedin](https://www.linkedin.com/in/vsevolod-suschevskiy-131a45178/) -- it is banned in Russia
 * [personal page](https://vvseva.netlify.app/) -- you are here
 
+[more links](/posts/all-links/)
