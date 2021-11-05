@@ -65,6 +65,9 @@ hr {
 nav {
   margin: 1em auto; }
 
+.postdate {
+  float: right; }
+
 .wrap {
   margin: 0 auto;
   width: 45%;

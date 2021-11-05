@@ -6,9 +6,11 @@
     <ul>
         {{ range .Data.Pages }}
         <li>
-            <a href="{{.RelPermalink}}">
-                {{.Title | markdownify}}
-            </a>
+            <span class = 'postname'>
+                <a href="{{.RelPermalink}}">
+                    {{.Title | markdownify}}
+                </a>
+            </span>
             <span class="postdate">
             {{ if .Params.showDate }}
             {{ .Date.Format (.Site.Params.dateForm | default "Mon Jan 02, 2006")}}
