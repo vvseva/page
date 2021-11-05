@@ -9,11 +9,11 @@
             <a href="{{.RelPermalink}}">
                 {{.Title | markdownify}}
             </a>
-            <div class="datepart">
+            <span class="postdate">
             {{ if .Params.showDate }}
             {{ .Date.Format (.Site.Params.dateForm | default "Mon Jan 02, 2006")}}
             {{ end }}
-            </div>
+            </span>
         </li>
         {{ end }}
     </ul>
