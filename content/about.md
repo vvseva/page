@@ -18,6 +18,6 @@ All the links:
 * [twitter](https://twitter.com/vvsuschevskiy) -- short summary of a nice research
 * [google scholar](https://scholar.google.ru/citations?user=TycFXMIAAAAJ&hl=en)
 * [linkedin](https://www.linkedin.com/in/vsevolod-suschevskiy-131a45178/) -- it is banned in Russia
-* [personal page](https://vvseva.netlify.app/) -- you are here
+* [personal page](/about/) -- you are here
 
 [more links](/posts/all-links/)
