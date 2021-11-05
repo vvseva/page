@@ -14,7 +14,6 @@ My third role is as an instructor at Data Science minor at the same Uni. It is m
 All the links:
 
 * [github](https://github.com/vvseva)
-* [researchgate](https://www.researchgate.net/profile/Vsevolod-Suschevskiy-2)
 * [twitter](https://twitter.com/vvsuschevskiy) -- short summary of a nice research
 * [google scholar](https://scholar.google.ru/citations?user=TycFXMIAAAAJ&hl=en)
 * [linkedin](https://www.linkedin.com/in/vsevolod-suschevskiy-131a45178/) -- it is banned in Russia

@@ -20,4 +20,11 @@ It might be too personal to share these, don't you think?
 
 # Universities 
 
-* [HSE University](https://www.hse.ru/staff/vvsuschevskiy) 
+* [HSE University](https://www.hse.ru/staff/vvsuschevskiy)
+* [researchgate](https://www.researchgate.net/profile/Vsevolod-Suschevskiy-2)
+
+# Programming
+
+* [RPubs](https://rpubs.com/vvseva)
+* [Tableau](https://public.tableau.com/app/profile/vsevolod.suschevskiy1458)
+* [Modeling Commons](http://ww.w.modelingcommons.org/browse/one_model/6229#model_tabs_browse_discuss)

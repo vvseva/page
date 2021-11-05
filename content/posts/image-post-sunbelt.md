@@ -21,6 +21,6 @@ That was my first conference! We spend a few hours to write a terrible abstract 
 
 But the conference itself was _very nice_ to say the least. Firstly, I genuinely liked presentations, in spite of missing workshop day due to jet lag and strike of bus drivers. Secondly, I had a feeling of belonging to the community, but informal activities were awkward anyway.
 
-![Ideas](/posts/images/sunbelt-transfers.png)
+![transfers](/posts/images/sunbelt-transfers.png)
 
 That was a nice picture! You can find a [poster here](/pdf/sunbelt-transfers.pdf). Also, we managed to publish a paper [Analysis of Players Transfers in Esports. The Case of Dota 2](https://dl.acm.org/doi/abs/10.1145/3275116.3275151).
