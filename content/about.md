@@ -1,11 +1,13 @@
 ---
-date: "2020-04-09T18:42:49-05:00"
+date: "2021-04-09T18:42:49-05:00"
+images:
+- /about_files/do-not-save-me.jpg
 title: About
 ---
 
 ## Short
 
-I am [Vsevolod Suschevskiy](https://pbs.twimg.com/profile_images/1361052510958542855/gUR5YxX8_400x400.jpg), but please call me Seva in order to save your speech apparatus, so here is my [CV](https://github.com/vvseva/cv/raw/master/Vsevolod_Suschevskiy_sCV.pdf). 
+I am [Vsevolod Suschevskiy](/about_files/do-not-save-me.jpg), but please call me Seva in order to save your speech apparatus, so here is my [CV](https://github.com/vvseva/cv/raw/master/Vsevolod_Suschevskiy_sCV.pdf). 
 
 In general, I like what Computational Social Science is, especially, inferring human behavior either with Agent-Based Modeling and/or digital experiments, where social structure might be represented as a network.
 
