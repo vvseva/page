@@ -1,5 +1,5 @@
 ---
-date: "2021-01-30T12:41:46-05:00"
+date: "2022-01-30T12:41:46-05:00"
 draft: false
 images:
 - /posts/images/toloka.png
@@ -21,4 +21,4 @@ Motivational Nudges in Citizen Science: Experimental Approach
 
 ![message](/posts/images/toloka.png)
 
-[Toloka](https://toloka.ai/) is mostly a crowdsource platform for mapping datasets for ML, but toloka workers are real individuals, who as many other people could effectively estimate the power and invasiveness of nudging messages. More about [Toloka Academi](https://toloka.ai/academy).
+[Toloka](https://toloka.ai/) is mostly a crowdsource platform for mapping datasets for ML, but toloka workers are real individuals, who as many other people could effectively estimate the power and invasiveness of nudging messages. More about [Toloka Academy](https://toloka.ai/academy).
