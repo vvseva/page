@@ -6,7 +6,7 @@ images:
 showDate: true
 tags:
 - research
-- vignexp 
+- CitSci 
 title: 'Experiment for CitSci'
 ---
 
