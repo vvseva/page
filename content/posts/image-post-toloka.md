@@ -10,7 +10,7 @@ tags:
 title: 'Toloka Research Grant for MA Thesis'
 ---
 
-I was very excited to participate in my first ACM conference, but it was shuttled down due to COVID-19 a day before the start.
+Motivational Nudges in Citizen Science: Experimental Approach
 
 ### How will the research idea benefit from the grant?
 
