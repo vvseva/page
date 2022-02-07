@@ -20,10 +20,10 @@ It is in Russian, but if you really interested you could something out.
 
 # Skills
 
-Tons of big data instruments: starting with a ClickHouse and Hadoop with pySpark and following up with AirFlow (DAGs !) Kafka, Azkaban and Zeppelin. Extracting and processing files that were larger then my laptop hard drive was a challenge, but elegant sampling saved the day.
+Tons of big data instruments: starting with a ClickHouse and Hadoop with pySpark and following up with AirFlow (DAGs !) Kafka, Azkaban and Zeppelin. Extracting and processing larger files than my laptop hard drive was a challenge, but elegant sampling saved the day.
 
 # Personal thoughts
 
-Industry might be challenging and the majority of co-workers are not keening to teach you something. And that is completely understandable, but mildly infuriating. 
+The industry might be challenging, and the majority of co-workers are not keen to teach you something. And that is entirely understandable but mildly infuriating. 
 
-I understood that getting bogged down in a routine is not always a bad thing, but that is not something that I want to to now.
+I understood that getting bogged down in a routine is not always bad, but that is not what I want to do now.
