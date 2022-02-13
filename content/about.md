@@ -2,14 +2,14 @@
 date: "2021-04-09T18:42:49-05:00"
 images:
 - /about_files/do-not-save-me.jpg
-title: About
+title: Vsevolod Suschevskiy
 ---
 
 ## Short
 
-I am [Vsevolod Suschevskiy](/about_files/do-not-save-me.jpg), but please call me Seva in order to save your speech apparatus, so here is my [CV](https://github.com/vvseva/cv/raw/master/Vsevolod_Suschevskiy_sCV.pdf). 
+I am Vsevolod Suschevskiy [photo](/about_files/do-not-save-me.jpg#floatright "Seva photo"), but please call me Seva in order to save your speech apparatus, so here is my [CV](https://github.com/vvseva/cv/raw/master/Vsevolod_Suschevskiy_sCV.pdf). 
 
-In general, I like what Computational Social Science is, especially, inferring human behavior either with Agent-Based Modeling and/or digital experiments, where social structure might be represented as a network.
+In general, I like what Computational Social Science is, especially, inferring human behavior either with Agent-Based Modeling and/or digital experiments (virtual labs maybe), where social structure might be represented as a network.
 
 ## Long
 
@@ -22,7 +22,7 @@ My second role is an instructor at Data Science minor at the same Uni. It is mos
 ## All the links:
 
 * [github](https://github.com/vvseva)
-* [twitter](https://twitter.com/vvsuschevskiy) -- short summaries of nice research
+* [twitter](https://twitter.com/vvsuschevskiy) -- short summaries of nice researches
 * [google scholar](https://scholar.google.ru/citations?user=TycFXMIAAAAJ&hl=en)
 * [linkedin](https://www.linkedin.com/in/vsevolod-suschevskiy-131a45178/) -- it is banned in Russia
 * [more links](/posts/all-links/)
