@@ -9,7 +9,7 @@ title: Vsevolod Suschevskiy
 
 ![](/about_files/off_hat_cut.jpg)
 
-Please call me Seva; here is my [CV](https://github.com/vvseva/cv/raw/master/Vsevolod_Suschevskiy_sCV.pdf).
+Please call me Seva; here is my [CV](https://github.com/vvseva/cv/raw/master/Vsevolod_Suschevskiy_resume.pdf).
 
 In general, I like what Computational Social Science is, especially inferring human behaviour either with Agent-Based Modeling and/or digital experiments (virtual labs, maybe), where social structure might be represented as a network.
 
