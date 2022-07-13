@@ -2,7 +2,7 @@ baseurl: https://vvseva.netlify.app/
 languageCode: en-us
 defaultContentLanguage: en
 isMultilingual: no
-title: vvseva business card website
+title: vvseva blogdown
 theme: hugo-theme-sam
 pygmentsStyle: monokai
 pygmentsCodefences: yes
@@ -17,11 +17,11 @@ params:
   mainMenu:
     - link: posts
       text: posts
-    - link: gallery
-      text: gallery
+    - link: courses
+      text: courses
     - link: about
-      text: who is Seva
-  title: vvseva business card website
+      text: about
+  title: vvseva blogdown
   videoBackground:
     overlay: rgba(0, 0, 0, 0.4)
     sources:

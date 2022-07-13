@@ -92,6 +92,15 @@ nav {
   justify-content: center;
   align-items: flex-start; }
 
+.flex-container2 img {
+  width: 50%;
+  max-width: 100%;
+  display: block;
+  margin: auto;
+  opacity: 1;
+  float: right;
+  padding: 10px; }
+
 .bottom-menu {
   display: flex;
   flex-direction: column;
